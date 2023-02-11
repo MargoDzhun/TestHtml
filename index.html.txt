@@ -1,0 +1,15 @@
+<html>
+
+  <body>
+    <h1>Типи тестування</h1>
+    <p>Визначають 4 рівні тестування (Testing levels) <strong> програмного забезпечення:</strong></p>
+    <ol>
+      <li>Модульне</li>
+      <li>Інтеграційне</li>
+      <li>Системне</li>
+      <li>Приймальне</li>
+    </ol>
+    <img src="https://i.ibb.co/DkqCgh2/hw14.jpg" />
+  </body>
+
+</html>
